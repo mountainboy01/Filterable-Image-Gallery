@@ -23,14 +23,14 @@ h1{
 }
 
 .buttons .btn{
-	background: linear-gradient(to right, #751a77, #7a0787, #9d0f9c);
+	background: #751a77;
 	padding: 10px 20px;
 	color: #fff;
 	transition: all 0.5s;
 }
 
 .buttons .btn:hover{
-	background: linear-gradient(to left, #751a77, #7a0787, #9d0f9c);
+	background: #571959;
 	box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
 }
 
