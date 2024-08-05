@@ -6,7 +6,7 @@
     buttons.forEach((button)=>{
     button.addEventListener("click",(e)=>{
       
-      const filter = e.target.dataset.filter
+      const filter = e.target.dataset.filter;
 
       storeImages.forEach((item)=>{
           if(filter==="all"){
